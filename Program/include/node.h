@@ -9,6 +9,7 @@ public:
     Node( Coordinate coordinate ) ;
 
     void setNext( Node* node ) ;
+    Node* getNext( void ) ;
 
     ~Node( void ) ;
 private:

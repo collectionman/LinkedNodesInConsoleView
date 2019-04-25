@@ -8,6 +8,10 @@ void Node::setNext( Node* node ) {
     _next = node ;
 }
 
+Node* Node::getNext( void ) {
+    return _next ;
+}
+
 Node::~Node( void ) {
     _coordinate = Coordinate( 0, 0 ) ;
     if ( _next ) {
