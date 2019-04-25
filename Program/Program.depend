@@ -2,11 +2,15 @@
 1556159900 source:c:\users\user\materias\tercer_a—o\investigacion_operativa\linkednodesinconsoleview\program\src\coordinate.cpp
 	"coordinate.h"
 
-1556159882 c:\users\user\materias\tercer_a—o\investigacion_operativa\linkednodesinconsoleview\program\include\coordinate.h
+1556160458 c:\users\user\materias\tercer_a—o\investigacion_operativa\linkednodesinconsoleview\program\include\coordinate.h
 
 1556157977 source:c:\users\user\materias\tercer_a—o\investigacion_operativa\linkednodesinconsoleview\program\src\node.cpp
 	"node.h"
 
 1556158062 c:\users\user\materias\tercer_a—o\investigacion_operativa\linkednodesinconsoleview\program\include\node.h
 	"coordinate.h"
+
+1556160254 source:c:\users\user\materias\tercer_a—o\investigacion_operativa\linkednodesinconsoleview\program\main.cpp
+	<iostream>
+	"node.h"
 

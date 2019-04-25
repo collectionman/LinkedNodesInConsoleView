@@ -6,6 +6,9 @@ class Coordinate {
 public:
     Coordinate( int x = 0, int y = 0 ) ;
 
+    int getXPoint( void ) ;
+    int getYPoint( void ) ;
+
     ~Coordinate( void ) ;
 private:
     int _x ;
